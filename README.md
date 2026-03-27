@@ -26,5 +26,5 @@ Frontend Developer with experience building interactive web applications and pro
 - Building stronger full-stack fundamentals
 
 ## Contact
-- LinkedIn: [add your LinkedIn here]
-- Email: [add your professional email if you want]
+- LinkedIn: https://www.linkedin.com/in/thodoris-arampatzis-b470191b1/
+- Email: theodorosarabatzis@gmail.com
