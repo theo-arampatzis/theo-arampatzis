@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**theo-arampatzis/theo-arampatzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Thodoris Arampatzis
 
-Here are some ideas to get you started:
+Frontend Developer with experience building interactive web applications and product customization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- React
+- JavaScript
+- Three.js
+- Fabric.js
+- Redux
+- SCSS
+- Vite
+
+## What I’ve worked on
+- 3D jewelry customization interfaces
+- Interactive product personalization flows
+- UI feature development and bug fixing in production apps
+- Canvas-based text and drawing tools
+- Google Maps integrations and dynamic user input flows
+
+## Currently interested in
+- Frontend architecture
+- 3D on the web
+- Performance and maintainability
+- Building stronger full-stack fundamentals
+
+## Contact
+- LinkedIn: [add your LinkedIn here]
+- Email: [add your professional email if you want]
