@@ -1,5 +1,5 @@
 
-# Hi, I'm Thodoris Arampatzis
+# Hi, I'm Theo Arampatzis
 
 Frontend Developer focused on building interactive web applications and 3D product customization experiences using React and modern web technologies.
 
