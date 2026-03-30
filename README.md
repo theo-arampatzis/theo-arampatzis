@@ -34,5 +34,5 @@ Frontend Developer at The Future of Jewelry (TFOJ)
 - Collaborating within a development team on ongoing product improvements
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/theo-arampatzis-b470191b1/?skipRedirect=true
+- LinkedIn: https://www.linkedin.com/in/theo-arampatzis-b470191b1/
 - Email: theodorosarabatzis@gmail.com
